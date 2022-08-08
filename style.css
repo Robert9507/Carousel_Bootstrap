@@ -1,0 +1,38 @@
+.body {
+    background-color: rebeccapurple;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+h2 {
+    padding: 60px;
+    font-size: 75px;
+}
+
+.carousel-caption {
+    position: absolute;
+    padding-top:  10px;
+    bottom: 150px;
+    background: rgba(0, 0, 0, 0.577);
+    font-size: 35px;
+}
+
+.btn {
+    margin-top: 50px;
+    background: black;
+    color: white;
+    width: 280px;
+    height: 60px;
+    font-size: 25px;
+}
+
+p {
+    padding-top: 20px;
+}
+
+i{
+    padding-left: 10px;
+}
+
